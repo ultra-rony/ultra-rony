@@ -13,6 +13,7 @@
     <img src="https://img.shields.io/badge/-graphql-27ae60?style=for-the-badge&logo=graphql&logoColor=2980b9" alt=""/>
     <img src="https://img.shields.io/badge/-android-f1c40f?style=for-the-badge&logo=android&logoColor=2980b9" alt=""/>
     <img src="https://img.shields.io/badge/-ios-7f8c8d?style=for-the-badge&logo=ios&logoColor=fff" alt=""/>
+    <img src="https://img.shields.io/badge/-linux-c0392b?style=for-the-badge&logo=linux&logoColor=fff" alt=""/>
   </div>
 </div>
 
